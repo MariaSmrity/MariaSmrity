@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<H3>Thanks for visiting my profile. I'm a software engineer based in Tampere.</H3>
+<H3>Thanks for visiting my profile. I'm a Developer based in Tampere.</H3>
 
 <H4>How to reach me:</H4>
 </br>
